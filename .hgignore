@@ -1,0 +1,15 @@
+# use glob syntax.
+syntax: glob
+
+*.pyc
+*~
+#*
+tmp/*
+*.o
+*.exm
+*.exout
+*.log
+*.aux
+*.tar.gz
+primes.txt
+exmples
