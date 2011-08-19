@@ -1,5 +1,10 @@
 -*- Fundamental -*-
 
+Version 1.33 - 2011/August/19
+=============================
+1. Fixed wrong extra parameter in unique_copy().
+   Error reported by: Tommy Olsson <tommy.olsson@liu.se>.
+
 Version 1.32 - 2009/July/10
 ===========================
 Suggested by Antonio Araujo <antonio vazquez araujo AT gmail DOT com>
